@@ -1,0 +1,2 @@
+# Algorithmique
+Quelques algorithmes différents
